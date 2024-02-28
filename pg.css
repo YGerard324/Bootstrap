@@ -1,0 +1,11 @@
+.backNav{
+    background-color: #0984e6;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: #ffeaa7;
+}
